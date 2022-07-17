@@ -1,0 +1,16 @@
+D:\VS projects\CSharp-Advanced\Multidimensional Arrays\3Ex Maximal Sum\bin\Debug\net5.0\3Ex Maximal Sum.exe
+D:\VS projects\CSharp-Advanced\Multidimensional Arrays\3Ex Maximal Sum\bin\Debug\net5.0\3Ex Maximal Sum.deps.json
+D:\VS projects\CSharp-Advanced\Multidimensional Arrays\3Ex Maximal Sum\bin\Debug\net5.0\3Ex Maximal Sum.runtimeconfig.json
+D:\VS projects\CSharp-Advanced\Multidimensional Arrays\3Ex Maximal Sum\bin\Debug\net5.0\3Ex Maximal Sum.runtimeconfig.dev.json
+D:\VS projects\CSharp-Advanced\Multidimensional Arrays\3Ex Maximal Sum\bin\Debug\net5.0\3Ex Maximal Sum.dll
+D:\VS projects\CSharp-Advanced\Multidimensional Arrays\3Ex Maximal Sum\bin\Debug\net5.0\ref\3Ex Maximal Sum.dll
+D:\VS projects\CSharp-Advanced\Multidimensional Arrays\3Ex Maximal Sum\bin\Debug\net5.0\3Ex Maximal Sum.pdb
+D:\VS projects\CSharp-Advanced\Multidimensional Arrays\3Ex Maximal Sum\obj\Debug\net5.0\3Ex Maximal Sum.csproj.AssemblyReference.cache
+D:\VS projects\CSharp-Advanced\Multidimensional Arrays\3Ex Maximal Sum\obj\Debug\net5.0\3Ex Maximal Sum.GeneratedMSBuildEditorConfig.editorconfig
+D:\VS projects\CSharp-Advanced\Multidimensional Arrays\3Ex Maximal Sum\obj\Debug\net5.0\3Ex Maximal Sum.AssemblyInfoInputs.cache
+D:\VS projects\CSharp-Advanced\Multidimensional Arrays\3Ex Maximal Sum\obj\Debug\net5.0\3Ex Maximal Sum.AssemblyInfo.cs
+D:\VS projects\CSharp-Advanced\Multidimensional Arrays\3Ex Maximal Sum\obj\Debug\net5.0\3Ex Maximal Sum.csproj.CoreCompileInputs.cache
+D:\VS projects\CSharp-Advanced\Multidimensional Arrays\3Ex Maximal Sum\obj\Debug\net5.0\3Ex Maximal Sum.dll
+D:\VS projects\CSharp-Advanced\Multidimensional Arrays\3Ex Maximal Sum\obj\Debug\net5.0\ref\3Ex Maximal Sum.dll
+D:\VS projects\CSharp-Advanced\Multidimensional Arrays\3Ex Maximal Sum\obj\Debug\net5.0\3Ex Maximal Sum.pdb
+D:\VS projects\CSharp-Advanced\Multidimensional Arrays\3Ex Maximal Sum\obj\Debug\net5.0\3Ex Maximal Sum.genruntimeconfig.cache

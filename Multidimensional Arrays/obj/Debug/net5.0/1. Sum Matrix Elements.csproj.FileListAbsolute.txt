@@ -1,0 +1,16 @@
+D:\VS projects\CSharp-Advanced\Multidimensional Arrays\Multidimensional Arrays\bin\Debug\net5.0\1. Sum Matrix Elements.exe
+D:\VS projects\CSharp-Advanced\Multidimensional Arrays\Multidimensional Arrays\bin\Debug\net5.0\1. Sum Matrix Elements.deps.json
+D:\VS projects\CSharp-Advanced\Multidimensional Arrays\Multidimensional Arrays\bin\Debug\net5.0\1. Sum Matrix Elements.runtimeconfig.json
+D:\VS projects\CSharp-Advanced\Multidimensional Arrays\Multidimensional Arrays\bin\Debug\net5.0\1. Sum Matrix Elements.runtimeconfig.dev.json
+D:\VS projects\CSharp-Advanced\Multidimensional Arrays\Multidimensional Arrays\bin\Debug\net5.0\1. Sum Matrix Elements.dll
+D:\VS projects\CSharp-Advanced\Multidimensional Arrays\Multidimensional Arrays\bin\Debug\net5.0\ref\1. Sum Matrix Elements.dll
+D:\VS projects\CSharp-Advanced\Multidimensional Arrays\Multidimensional Arrays\bin\Debug\net5.0\1. Sum Matrix Elements.pdb
+D:\VS projects\CSharp-Advanced\Multidimensional Arrays\Multidimensional Arrays\obj\Debug\net5.0\1. Sum Matrix Elements.csproj.AssemblyReference.cache
+D:\VS projects\CSharp-Advanced\Multidimensional Arrays\Multidimensional Arrays\obj\Debug\net5.0\1. Sum Matrix Elements.GeneratedMSBuildEditorConfig.editorconfig
+D:\VS projects\CSharp-Advanced\Multidimensional Arrays\Multidimensional Arrays\obj\Debug\net5.0\1. Sum Matrix Elements.AssemblyInfoInputs.cache
+D:\VS projects\CSharp-Advanced\Multidimensional Arrays\Multidimensional Arrays\obj\Debug\net5.0\1. Sum Matrix Elements.AssemblyInfo.cs
+D:\VS projects\CSharp-Advanced\Multidimensional Arrays\Multidimensional Arrays\obj\Debug\net5.0\1. Sum Matrix Elements.csproj.CoreCompileInputs.cache
+D:\VS projects\CSharp-Advanced\Multidimensional Arrays\Multidimensional Arrays\obj\Debug\net5.0\1. Sum Matrix Elements.dll
+D:\VS projects\CSharp-Advanced\Multidimensional Arrays\Multidimensional Arrays\obj\Debug\net5.0\ref\1. Sum Matrix Elements.dll
+D:\VS projects\CSharp-Advanced\Multidimensional Arrays\Multidimensional Arrays\obj\Debug\net5.0\1. Sum Matrix Elements.pdb
+D:\VS projects\CSharp-Advanced\Multidimensional Arrays\Multidimensional Arrays\obj\Debug\net5.0\1. Sum Matrix Elements.genruntimeconfig.cache

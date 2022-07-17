@@ -1,0 +1,16 @@
+D:\VS projects\CSharp-Advanced\Multidimensional Arrays\1EX Diagonal Difference\bin\Debug\net5.0\1EX Diagonal Difference.exe
+D:\VS projects\CSharp-Advanced\Multidimensional Arrays\1EX Diagonal Difference\bin\Debug\net5.0\1EX Diagonal Difference.deps.json
+D:\VS projects\CSharp-Advanced\Multidimensional Arrays\1EX Diagonal Difference\bin\Debug\net5.0\1EX Diagonal Difference.runtimeconfig.json
+D:\VS projects\CSharp-Advanced\Multidimensional Arrays\1EX Diagonal Difference\bin\Debug\net5.0\1EX Diagonal Difference.runtimeconfig.dev.json
+D:\VS projects\CSharp-Advanced\Multidimensional Arrays\1EX Diagonal Difference\bin\Debug\net5.0\1EX Diagonal Difference.dll
+D:\VS projects\CSharp-Advanced\Multidimensional Arrays\1EX Diagonal Difference\bin\Debug\net5.0\ref\1EX Diagonal Difference.dll
+D:\VS projects\CSharp-Advanced\Multidimensional Arrays\1EX Diagonal Difference\bin\Debug\net5.0\1EX Diagonal Difference.pdb
+D:\VS projects\CSharp-Advanced\Multidimensional Arrays\1EX Diagonal Difference\obj\Debug\net5.0\1EX Diagonal Difference.csproj.AssemblyReference.cache
+D:\VS projects\CSharp-Advanced\Multidimensional Arrays\1EX Diagonal Difference\obj\Debug\net5.0\1EX Diagonal Difference.GeneratedMSBuildEditorConfig.editorconfig
+D:\VS projects\CSharp-Advanced\Multidimensional Arrays\1EX Diagonal Difference\obj\Debug\net5.0\1EX Diagonal Difference.AssemblyInfoInputs.cache
+D:\VS projects\CSharp-Advanced\Multidimensional Arrays\1EX Diagonal Difference\obj\Debug\net5.0\1EX Diagonal Difference.AssemblyInfo.cs
+D:\VS projects\CSharp-Advanced\Multidimensional Arrays\1EX Diagonal Difference\obj\Debug\net5.0\1EX Diagonal Difference.csproj.CoreCompileInputs.cache
+D:\VS projects\CSharp-Advanced\Multidimensional Arrays\1EX Diagonal Difference\obj\Debug\net5.0\1EX Diagonal Difference.dll
+D:\VS projects\CSharp-Advanced\Multidimensional Arrays\1EX Diagonal Difference\obj\Debug\net5.0\ref\1EX Diagonal Difference.dll
+D:\VS projects\CSharp-Advanced\Multidimensional Arrays\1EX Diagonal Difference\obj\Debug\net5.0\1EX Diagonal Difference.pdb
+D:\VS projects\CSharp-Advanced\Multidimensional Arrays\1EX Diagonal Difference\obj\Debug\net5.0\1EX Diagonal Difference.genruntimeconfig.cache

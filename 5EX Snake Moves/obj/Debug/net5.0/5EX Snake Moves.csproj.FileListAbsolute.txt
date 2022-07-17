@@ -1,0 +1,4 @@
+D:\VS projects\CSharp-Advanced\Multidimensional Arrays\5EX Snake Moves\obj\Debug\net5.0\5EX Snake Moves.GeneratedMSBuildEditorConfig.editorconfig
+D:\VS projects\CSharp-Advanced\Multidimensional Arrays\5EX Snake Moves\obj\Debug\net5.0\5EX Snake Moves.AssemblyInfoInputs.cache
+D:\VS projects\CSharp-Advanced\Multidimensional Arrays\5EX Snake Moves\obj\Debug\net5.0\5EX Snake Moves.AssemblyInfo.cs
+D:\VS projects\CSharp-Advanced\Multidimensional Arrays\5EX Snake Moves\obj\Debug\net5.0\5EX Snake Moves.csproj.CoreCompileInputs.cache
